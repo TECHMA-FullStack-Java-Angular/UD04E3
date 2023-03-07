@@ -9,6 +9,7 @@ public class Ej3 {
 		System.out.println("Las variables creadas son: x = "+x+ ", "+ "y = "+y+", "+"n = "+n+" y "+"m = "+m+".");
 		System.out.println("x + y = "+(x+y));
 		System.out.println("x - y = "+(x-y));
+		System.out.println("x * y = "+(x*y));
 	}
 
 }
