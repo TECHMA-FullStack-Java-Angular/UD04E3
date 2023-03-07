@@ -12,6 +12,11 @@ public class Ej3 {
 		System.out.println("x * y = "+(x*y));
 		System.out.println("x / y = "+(x/y));
 		System.out.println("x % y = "+(x%y));
+		System.out.println("n + m = "+(n+m));
+		System.out.println("n - m = "+(n-m));
+		System.out.println("n * m = "+(n*m));
+		System.out.println("n / m = "+(n/m));
+		System.out.println("n % m = "+(n%m));
 	}
 
 }
